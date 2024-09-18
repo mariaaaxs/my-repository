@@ -50,7 +50,7 @@ console.log(contecacao02)
 
 // Dados do tipo Boolean
 // True -> verdadeiro
-// False -> falso
+// False -> falsoo
 
 const numer006 = 7
 
