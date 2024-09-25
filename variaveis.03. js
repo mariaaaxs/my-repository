@@ -1,0 +1,29 @@
+// Alguns erros comuns
+
+// const numero; Erro de não declarar uma constante 
+// console.log(numero ; Erro de sintese 
+ const minhaVariavel = "oi";
+ console.log(minhaVariavel); // erro de variável não declarada
+
+
+ // log -> registro 
+
+ constminhaVar2 = true;
+
+ // console.log(245)
+ // console.log("eu sou um texto")
+ // console.log(minhaVar2)
+
+ // tratamento de erro!
+
+ console.error('deu erro!')
+
+ // modo classico, usando o if(){}
+
+ const idadeMinima = 18;
+ const idadeCliente = 17;
+
+if(idadeCliente) >= idadeMinima) {
+    console.log("cerveja")
+    }    else
+}
